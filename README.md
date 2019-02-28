@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To use the app, add an environment variable with the key REACT_APP_YOUTUBE_PUBLIC_DATA_KEY and value of the youtube data api v3 key and restrict reffers to your URL
 
 ## Available Scripts
 
